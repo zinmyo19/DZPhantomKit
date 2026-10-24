@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- terminal prompt chevron -->
+    <path
+        android:fillColor="#00E5A8"
+        android:pathData="M30,38 L30,46 L46,54 L30,62 L30,70 L62,54 Z" />
+    <!-- cursor block -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M66,66 L82,66 L82,74 L66,74 Z" />
+</vector>
