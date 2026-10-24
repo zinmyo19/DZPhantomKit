@@ -1,0 +1,9 @@
+<resources>
+    <color name="dz_bg">#0B0F10</color>
+    <color name="dz_surface">#141A1B</color>
+    <color name="dz_primary">#00E5A8</color>
+    <color name="dz_primary_variant">#00B386</color>
+    <color name="dz_accent">#7C4DFF</color>
+    <color name="dz_text">#E6F2EF</color>
+    <color name="dz_text_dim">#8FA19C</color>
+</resources>
