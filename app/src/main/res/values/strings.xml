@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DZ PhantomKit</string>
+    <string name="subtitle">Rootless security toolkit launcher</string>
+    <string name="status_checking">Checking environment…</string>
+    <string name="status_termux_missing">Termux is not installed</string>
+    <string name="status_ready">Termux detected — ready</string>
+    <string name="btn_open_termux">Open Termux</string>
+    <string name="btn_copy_install">Copy install commands</string>
+    <string name="btn_launch_cli">Launch CLI</string>
+    <string name="btn_launch_kex">Launch Desktop (KeX)</string>
+    <string name="install_copied">Install commands copied — paste them into Termux</string>
+    <string name="install_instructions">1) Install Termux + Hacker\'s Keyboard from F-Droid or the NetHunter Store\n2) Tap \"Copy install commands\" below\n3) Open Termux, paste, and press Enter\n4) Once it finishes, use the buttons below to launch</string>
+</resources>
